@@ -1,0 +1,344 @@
+isbn	author
+9780073516677	o'leary, timothy j.;  o'leary, linda i.;  
+9780072999389	yacht, carol ;  crosson, susan ;  
+9780072922363	hutton, david v.;  
+9780072843996	haag, stephen ;  perry, james t.;  sosinsky, barrie ;  estevez, efren ;  
+9780072466850	reddy, j. n. ;  
+9780072255096	conklin, wm. arthur;  white, gregory b.;  cothren, chuck ;  williams, dwayne ;  davis, roger l.;
+9780072232172	suhanovs, dennis ;
+9780072230611	scambray, joel ;  mcclure, stuart ;  
+9780072226331	white, gregory ;  
+9780071357814	xiang, zhigang ;  plastock, roy a.;  
+9781576761061	meadors, todd ;  schmidt, cheryl a.;  
+9781558609350	courage, catherine ;  baxter, kathy ;  
+9781558609342	kumar, c bala;  kline, paul j.;  thompson, tim j.;  
+9781558609199	halpin, terry ;  evans, ken ;  hallock, pat ;  maclean, bill ;  
+9781558609016	han, jiawei ;  kamber, micheline ;  
+9781558608893	goldman, ron ;  gabriel, richard p.;  
+9781558608729	hoos, holger h.;   stutzle, thomas;  
+9781558608591	strassner, john c.;  
+978155860846X	makofske, david ;  almeroth, kevin ;  
+978155860829X	lacroix, zoe ;  critchlow, terence;
+9781558608109	loshin, pete ;  
+9781558607870	strothotte, thomas ;  schlechtweg, stefan ;  
+9781558607587	harmon, paul ;  
+9781558606971	chisholm, malcolm ;  
+9781558606483	puder, arno ;  romer, kay ;  pilhofer, frank ;  
+978155860636X	harris, david ;  
+9781558605959	kennedy, james ;  eberhart, russell c.;  
+9781558605711	hegering, heinz-gerd ;  neumair, bernhard;  abeck, sebastian;  
+9781558605150	muller, robert j.;  
+9781558604545	jones, karen sparck;  willett, peter ;  
+9781558603751	stollnitz, eric j.;  derose, tony d.;  salesin, david h.;  
+9781558603042	widom, jennifer ;  ceri, stefano;
+9781558601368	przybylski, steven a.;  
+978155558327X	erbschloe, michael ;  
+9781555582990	lissoir, alain ;  
+9781555582796	duffy, michael d.;  
+9781555582605	fortier, paul j.;  michel, howard e.;  
+9781555582184	etzel, michael ;  dickinson, karen ;  
+9781555580416	steele, guy l.;  
+9780750699388	shaw, paul d.;  
+9780750694998	pease, robert a.;  
+9780750677953	jones, andy ;  ashenden, debi ;  
+9780750673273	boyce, joseph g.;  jennings, dan w.;  
+978075066455X	mcmanus, john ;  
+9780750656832	pooley, rob ;  wilcox, pauline ;  
+9780672323435	mcmanus, jeffrey p.;  goldstein, jackie ;  
+978044450673X	jenssen, c. b.;  kvamdal, t. ;  andersson, h. i.;  Ecer, A.;  Periaux, J.;  Satofuka, N.;  Fox, P.;
+9780321444426	dowd, mark ;  mcdonald, john ;  schuh, justin ;  
+9780321418700	mcgraw, gary ;  viega, john ;  hoglund, greg ;  
+9780321397975	woody, buck ;  
+9780321356411	conry-murray, andrew ;  weafer, vincent ;  
+9780321335724	seacord, robert c.;  
+9780321322215	sudkamp, thomas a.;  
+978032131283X	ben-ari, m. ;  
+9780321304292	adams, tyrone ;  scollard, sharon ; 
+9780321287509	henderson, ken ;  
+9780321263545	coulouris, george ;  dollimore, jean ;  kindberg, tim ;  
+978032124544X	snader, jon c.;  
+9780321228103	nantz, brian ;  
+9780321219767	filman, robert e.;  elrad, tzilla ;  clarke, siobhan ;  aksit, mehmet ;  
+9780321205219	singh, inderjeet ;  brydon, sean ;  murray, greg ;  ramachandran, vijay ;  violleau, thierry ;  stearns, beth ;  
+9780321194985	sunderraman, rajshekhar ;  
+9780321181433	lauesen, soren ;  
+9780321165810	brundage, michael ;  
+9780321150406	harold, elliotte rusty;  
+978032112698X	naik, dilip c.;
+9780321112296	rozanski, nick ;  woods, eoin ;  
+9780201889544	stroustrup, bjarne ;  
+9780201823764	abrahams, paul w.;  larson, bruce r.;  
+9780201776316	stevens, w. richard;  wright, gary r. ;  
+9780201767910	rucker, rudy ;  
+9780201749602	park, jack ;  hunting, sam ;  
+9780201734958	pattison, ted ;  hummel, joe ;  
+9780201722291	smith, connie u.;  williams, lloyd g.;  
+9780201715848	lewis, jonathan ;  
+9780201704471	carroll, john m.;  
+9780201699710	huston, stephen d.;  johnson, james ce;  syyid, umar ;  
+9780201634929	rector, brent e.;  newcomer, joseph m.;  
+9780201633582	feuer, alan r.;  
+9780201615924	armour, frank ;  miller, granville ;  
+9780201580438	winston, patrick henry;  
+9780201543303	stroustrup, bjarne ;  
+9780201489163	campbell, dave ;  campbell, mary ;  
+978020140009X	sedgewick, robert ;  flajolet, philippe ;  
+9780201379236	musser, david r.;  derge, gillmer j.;  saini, atul ;  
+9780201310058	bloch, joshua ;  
+9780201137445	maclennan, bruce j.;  
+9780131872893	dann, wanda p.;  cooper, stephen ;  pausch, randy ;  
+9780131463055	geary, david ;  horstmann, cay ;  
+9780131227068	rubinstein, moshe f.;  firstenberg, iris r.;  
+9780130494984	bohl, marilyn ;  rynn, maria ;  
+9780130284467	shaffer, clifford a.;  
+9780126445516	simsion, graeme c.;  witt, graham c.;  
+9780124499759	lientz, bennet p.;  rea, kathryn p.;  
+9780123704529	hornick, mark f.;  marcade, erik ;  venkayala, sunil ;  
+9780122290631	eberly, david h.;  
+9780120887975	celko, joe ;  
+9780120455994	aiken, peter ;  allen, m. david;  
+9781555581994	cheek, matthew ;  
+9781555582745	moore, martin ;  hancock, steven ;
+9780750670630	chris schroeder
+9780073660967	laura saret
+9781558609075	james bean
+9780072944815	triad interactive
+9780072337389	timothy j o'leary; linda i o'leary
+9780321122445	aviva garrett; gary drenan; cris morris; juniper networks
+9780072259605	peter koletzke; duncan mills
+9780028056005	deborah hinkle; carole tobias; sharon anne fisher-larson; margaret marple; kathleen stewart
+9780071374736	zainalabedin navabi
+9780072226324	michael meyers
+9780201523744	george pajari
+9780201563177	w richard stevens
+9780072834345	glen coulthard; sarah hutchinson-clifford
+9780126567557	sue spielman
+9780072231915	steve bain
+9780321320735	kevin kenan
+9780072944822	triad interactive
+9780072223194	dennis suhanovs
+9780321335708	donald e knuth
+9780072834321	glen j coulthard; sarah hutchinson-clifford
+9780321245458	bob schneider
+9780073131122	carol yacht; susan crosson
+9780072263350	"regis j ""bud"" bates; donald w gregory"
+9780201379457	jason pritchard
+9780072944846	triad interactive
+9780072225754	brian culp
+9780072478808	john hirschbuhl; dwight bishop
+9780072255607	mike meyers
+9780072834307	glen coulthard; sarah hutchinson-clifford
+9780073131146	donna ulmer
+9780072231182	michael meyers; lloyd jeffries
+9780073528328	paul de palma
+9780072835595	timothy j o'leary; linda i o'leary
+9780028044071	peter norton
+9780124438644	cornelius t leondes
+9780072231199	michael meyers; scott jernigan
+9780072255881	colin smith
+9780071409278	mark balch
+9780201615630	carlton egremont
+9780072830767	stephen haag; james t perry
+9780122007514	william james dally; brian towles
+9780127323503	david wall
+9781555582982	tim speed; juanita ellis
+9780028043760	peter norton
+9780070004849	harold abelson; gerald jay sussman; julie sussman
+9780028055879	carole tobias
+9780124841406	roger mchaney
+9780072833430	stephen haag; james perry; barrie sosinsky; efren estevez
+9780072552584	mcgraw-hill
+9780072257045	joseph phillips
+9780201709155	david carlson
+9781555582036	patrick holmay
+9780201734850	karl e wiegers
+9780079136787	h h tan; tim d'orazio
+9780201608359	geoff chappell
+9780201533774	patrick henry winston
+9780028055886	carole tobias
+9780070137783	l. richard carley; pradeep khosla
+9780073101569	steven chapra; raymond canale
+9780201632187	al williams
+9780028055893	kathleen stewart
+9780070087149	george r buchanan
+9780201440997	matt bishop
+9780028055916	deborah hinkle
+9781558608702	carolyn snyder
+9780321116291	david benyon; phil turner; susan turner
+9780072845501	ellen pearlman; eileen mullin
+9780072224986	alan simpson
+9780201711028	kirk chen; li gong
+9780073132907	steven c chapra
+9780072560312	larry randles lagerstrom
+9780072254280	matthew hart; scott jesse
+9780028055909	deborah hinkle
+9780750649445	bill hutchinson; matt warren
+9780072227840	mike shema
+9780072320862	carl hamacher; zvonko vranesic; safwat zaky
+9780321146182	richard monson-haefel
+9780124383807	robert laurini; derek thompson
+9780072930962	barrie sosinsky
+9780072226973	mark rhodes-ousley; roberta bragg; keith strassberg
+9780201742039	buck woody
+9780028048918	robert goldhamer
+9780072227857	michael o'dea
+9780131856448	william stallings
+9780072230932	eric maiwald
+9780201544350	ivar jacobson
+9780072227864	nitesh dhanjani
+9780072254648	timothy j o'leary; linda l o'leary
+9781558604537	joe celko
+9780073288512	carol yacht
+9780123725011	mark utting; bruno legeard
+9780072254631	triad interactive
+9780028048970	robert goldhamer
+9780201616262	pankaj jalote
+9780072256758	chris davis; aaron philipp; david cowen
+9780028055923	deborah hinkle
+9780072830583	stephen haag; james perry; merrill wells
+9780070089853	richard g budynas
+9780078204616	joyce gleason
+9781558606777	jim melton
+9780134999975	oliver jones
+9780072354676	edward rubin; cliff i davidson
+9780120121670	marvin v zelkowitz
+9780201775808	rahul sharma; beth stearns; tony ng
+9780072225662	rory mccaw; kenneth lind
+9781558605398	mark d hill
+9780750658959	geoffrey sampson
+9780321155726	glenn rowe
+9781578702763	todd w mathers
+9781558609105	jim smith; ravi nair
+9780072958706	triad interactive
+9780201343045	judith bishop; nigel bishop
+9780201703092	judith s bowman; sandra l emerson; marcy darnovsky
+9780201847604	steven miller
+9780072958713	triad interactive
+9780072225648	brian hatch; james lee; george kurtz
+9780321256638	steve northover; mike wilson
+9780321197887	dan fox; jon box
+9780028005942	albert malvino; jerald brown
+9780072978476	peter norton
+9780071345545	pauline cushman; ramon mata-toledo
+9780078227813	jeffrey r stewart; nancy m melesco
+9780070259409	robert s pindyck; daniel l rubinfeld; bronwyn h hall; sergio l schmukler
+9780201708523	richard grimes
+9780072232196	diana huggins
+9780072227413	trevor kay
+9781558603875	jim blinn
+9781558609334	ian foster; carl kesselman
+9780072985559	vicki f sharp
+9780072255539	adrian kingsley-hughes
+9780072253603	kathy sierra; bert bates
+9780125852630	erik reinhard; greg ward; sumanta pattanaik; paul debevec
+9780072397024	behrouz a forouzan
+9780120884070	ian h witten; eibe frank
+9780072472509	timothy j o'leary; linda i o'leary; linda o'leary
+9780072231243	michael meyers
+9781558606432	b j fogg
+9780201325713	christine hofmeister; robert nord; dilip soni
+9780750696524	john d lenk
+9780201634600	richard mitchell; jim mckim
+9780750661577	cima publishing
+9780072253658	michael jang
+9780072941494	glenn d blank; robert barnes; edwin j kay
+9780131453203	jeffrey a hoffer; mary b prescott; fred r mcfadden
+9780072390841	ralph s polimeni; frank j fabozzi; arthur h adelberg; jacqueline a burke
+9780071362856	ed tittel
+9780072232332	rory mccaw; kenneth lind
+9780201616408	ken auer; roy miller
+9780321304780	patrick chan; rosanna lee
+9780072261943	ron hardman; michael mclaughlin
+9780072500172	kenneth laudon
+9780125184069	jakob nielsen
+9780072232325	anil desai
+9780072944792	triad interactive
+9780072231465	michael meyers; scott jernigan
+9780078216770	susan sanderson
+9781558608214	jakob nielsen
+9780130351180	hong zhang; y daniel liang
+9780072371925	ferris ritchey
+9780201657821	russell nakano
+9780072226225	robert j shimonski
+9780072966237	triad interactive
+9780805327304	michael wolfe
+9780072255089	vincent j nestler; wm arthur conklin; gregory b white; matthew p hirsch
+9780335216369	len unsworth; angela thomas; alyson m simpson; jennifer l asha
+9780072300413	donna thompson
+9780072565089	rosenberg
+9780072254914	julia case bradley; anita c millspaugh
+9780028055992	sharon anne fisher-larson; margaret marple
+9780072223224	anil desai
+9780072551877	triad interactive
+9781558605886	philippe rigaux; michel scholl; agnes voisard
+9780072966213	triad interactive
+9780201590654	ravi sethi
+9780072231236	michael meyers; lloyd jeffries
+9780072830613	stephen haag; james t perry; merrill wells
+9780321228383	michael kifer; arthur bernstein; philip m lewis
+9780073273273	carol yacht; susan crosson
+9780072223255	diana huggins
+9780321136497	jayson falkner; kevin r jones
+9780124499775	bennet p lientz; kathryn p rea
+9780072467505	yale patt; sanjay j patel
+9780073273266	carol yacht; susan crosson
+9780072226966	kevin mandia; chris prosise; matt pepe 
+9780321321367	pang-ning tan; michael steinbach; vipin kumar
+9780026648172	mcgraw-hill
+9781555582494	norman lawrence
+9780028049212	peter norton
+9780072226959	john muster
+9780072337488	timothy j o'leary; linda i o'leary
+9780072978902	peter norton
+9781558607552	r wieringa
+9780072456103	kenneth c laudon
+9780131414631	jitae shin; daniel c lee; c c jay kuo
+9781555583385	john w rittinghouse; james f ransome
+9780073195995	ralph m ford; chris s coulston
+9780072229240	christopher allen; simon chatwin; catherine a creary
+9780120510405	bryce allen
+9780072939200	timothy j o'leary; linda i o'leary
+9780201786958	greg hoglund; gary mcgraw
+9780072976779	steven c chapra
+9780073212227	ferdinand p beer; e russell johnston
+9780750681896	peter mcbride
+9780122861604	andrew s glassner
+9780321340795	rob williams
+9780072229233	carey holzman
+9780672321467	edward whalen; mitchell schroeter
+9781558607927	charles poynton
+9781558606890	usama fayyad; georges g grinstein; andreas wierse
+9780124499805	bennet p lientz; kathryn p rea
+9780072903621	l richard carley; pradeep khosla
+9780073304274	julia bradley; anita millspaugh
+9781558603530	william r sherman; alan b craig
+9780072976755	yunus a cengel; robert h turner
+9780201711141	aviel d rubin
+9780122205316	michael j donahoo; gregory speegle
+9780072844528	david mercer
+9780072263848	herbert schildt
+9780072565850	harry knight
+9780072872156	triad interactive
+9780072499544	timothy j o'leary; linda i o'leary; timothy o'leary
+9780072374162	timothy j o'leary; linda i o'leary
+9780072227765	michael otey
+9780071362078	nick carter
+9780201634457	carrie anderson; david wendelken
+9780072861983	john p hayes
+9780201433036	dorothy e denning
+9780201775921	thomas m thomas; rajah chowbay; doris pavlichek; wayne w downing; lawrence h dwyer; james sonderegger
+9780072230666	scott urman; ron hardman; michael mclaughlin
+9780072232066	jon juarez; john carter; kathleen stewart
+9780321294319	greg hoglund; jamie butler
+9780072263206	tom carpenter; grant moerschel; richard dreger
+9780120121557	marvin v zelkowitz
+9781555583156	fiach reid
+9780750661232	carol britton; jill doake
+9780131853546	janet valade
+9780072971293	triad interactive
+9780072967791	stephen haag; maeve cummings; alan i rea
+9780201695847	j scott marcus
+9780072835564	timothy j o'leary; linda i o'leary
+9780070379909	seymour lipschutz
+9780131452541	steve cunningham
+9780072847154	john hirschbuhl
